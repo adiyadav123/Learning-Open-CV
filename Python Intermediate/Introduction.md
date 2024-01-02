@@ -19,7 +19,9 @@ res = 1
 for x in n[1:3]:
   res *= x
 
-print(res)```
+print(res)
+
+```
 
 > Your options are -
 
