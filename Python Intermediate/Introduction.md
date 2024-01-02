@@ -14,12 +14,12 @@
 
 > What is the output of this code?
 
-`n = [2, 4, 6, 8]`
-`res = 1`
-`for x in n[1:3]:`
-`  res *= x`
-``
-`print(res)`
+```n = [2, 4, 6, 8]
+res = 1
+for x in n[1:3]:
+  res *= x
+
+print(res)```
 
 > Your options are -
 

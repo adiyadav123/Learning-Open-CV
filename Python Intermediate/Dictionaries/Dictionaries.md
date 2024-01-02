@@ -6,8 +6,7 @@
 
 > Lists are one of these collection types, and they allow you to store indexed values:
 
-`x = ['hi', 'hello', 'welcome']`
-`   print(x[2])`
-` `
-` `
-`Output: welcome`
+```x = ['hi', 'hello', 'welcome']
+   print(x[2])
+
+Output: welcome```
